@@ -25,11 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src=""  />
-
-###
 
 <div align="center">
   <a href="https://instagram.com/bir.doksanbes" target="_blank">
