@@ -39,7 +39,5 @@
 </div>
 
 ###
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/HikmetMelikk/HikmetMelikk/output/github-contribution-grid-snake.svg" />
-
+![Snake animation](https://raw.githubusercontent.com/HikmetMelikk/HikmetMelikk/output/github-contribution-grid-snake-dark.svg)
 ###
