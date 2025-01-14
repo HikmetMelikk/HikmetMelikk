@@ -15,5 +15,7 @@
 <h2 align="left">Hi 👋! My name is Hikmet Melik and I'm a Software Engineer, from Turkey</h2>
 
 ###
+
 <img src="https://raw.githubusercontent.com/HikmetMelikk/HikmetMelikk/output/snake.svg" alt="Snake animation" />
+
 ###
