@@ -1,3 +1,4 @@
+<h2 align="left">Hi 👋! My name is Hikmet Melik and I'm a Software Engineer, from Turkey</h2>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikmet_melikk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmet-melik-firat-355279203) 
 
@@ -12,7 +13,6 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hikmetmelik) 
-<h2 align="left">Hi 👋! My name is Hikmet Melik and I'm a Software Engineer, from Turkey</h2>
 
 ###
 
